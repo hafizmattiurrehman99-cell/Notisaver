@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Noti Saver</string>
+    <string name="subtitle">All your notifications, saved</string>
+    <string name="enable_access">Enable Notification Access</string>
+    <string name="empty_title">No notifications yet</string>
+    <string name="empty_subtitle">Once notifications start coming in, they will appear here</string>
+</resources>
